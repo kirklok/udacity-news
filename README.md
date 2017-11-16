@@ -19,6 +19,7 @@ news.py
 This file represents results from queries in html (view). This file was used to generate news.htm and news.txt
 
 To run the program
+
 0) clone project and cd into /udacity-news
 1) vagrant up
 2) vagrant ssh
